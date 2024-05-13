@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filtros">
+        <item>Name</item>
+        <item>Species</item>
+    </string-array>
+</resources>
